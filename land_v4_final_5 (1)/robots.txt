@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tools/
+
+Sitemap: https://alamin-digital-land-survey.netlify.app/sitemap.xml
